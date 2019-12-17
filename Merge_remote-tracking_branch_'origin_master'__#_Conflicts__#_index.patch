@@ -1,0 +1,15 @@
+Index: index
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index	(revision 16345eacf70a6e888307111a06df653923b7ca25)
++++ index	(date 1576618810088)
+@@ -22,6 +22,7 @@
+ 
+ 
+ 
++
+ <<<<<<<<< Temporary merge branch 1
+ =========
+ 
